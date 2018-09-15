@@ -1,0 +1,8 @@
+# dev environment
+**.code-workspace
+**/.vs
+**/x64
+**/DEBUG
+**.aps
+**.log
+**.user
